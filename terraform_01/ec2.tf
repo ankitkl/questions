@@ -28,7 +28,7 @@ resource "aws_instance" "web1" {
   }
 }
 */
-/*
+
 resource "aws_instance" "ansible-test" {
 	ami = "ami-1e749f67"
 	instance_type = "t1.micro"
@@ -51,4 +51,4 @@ resource "aws_instance" "ansible-test" {
 		hosts = ["all"]
 	}
 }
-*/
+

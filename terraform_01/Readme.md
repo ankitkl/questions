@@ -1,7 +1,7 @@
-Terrafrom task
-Setup Jump server "Bastion" host.
+###Terrafrom task
+##Setup Jump server "Bastion" host.
 
-#We use the EC2 Instance launched in Public Instance as the bashion Host and use this bashion host to provsion a server in private subnet and install the Jenkins us Jenkins playbook
+We use the EC2 Instance launched in Public Instance as the bashion Host and use this bashion host to provsion a server in private subnet and install the Jenkins us Jenkins playbook
 
  
 ## Ansible: 
